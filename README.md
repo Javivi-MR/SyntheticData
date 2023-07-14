@@ -1,4 +1,4 @@
-<h1>Synthetic Data Vault (SDV) GitHub Repository</h1>
+<h1>Synthetic Data Vault (SDV) Examples and Experiments GitHub Repository</h1>
 <p>This repository contains resources and examples related to <a node="[object Object]" class="MarkdownLink_linkifiedLink__KxC9G">Synthetic Data Vault</a> (SDV), a <a node="[object Object]" class="MarkdownLink_linkifiedLink__KxC9G">Python library</a> for synthesizing data. The examples are based on datasets from the <a node="[object Object]" class="MarkdownLink_linkifiedLink__KxC9G">UCI Machine Learning Repository</a> and demonstrate how to use SDV to generate <a node="[object Object]" class="MarkdownLink_linkifiedLink__KxC9G">synthetic data</a> that maintains the <a node="[object Object]" class="MarkdownLink_linkifiedLink__KxC9G">statistical properties</a> of the original data.</p>
 <h2>Directory Structure</h2>
 <p>The repository is organized into the following directories:</p>
@@ -20,4 +20,4 @@
 <h2>License</h2>
 <p>This project is licensed under the MIT license.</p>
 <h2>Contact</h2>
-<p>For any questions or feedback, please open an issue on GitHub or reach out to us via email at <code node="[object Object]">javier.molinarojas@alum.uca.es</code>.</p>
+<p>For any questions or feedback, please open an issue on GitHub or reach out to me via email at <code node="[object Object]">javier.molinarojas@alum.uca.es</code>.</p>
