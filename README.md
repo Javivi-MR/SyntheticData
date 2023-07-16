@@ -20,4 +20,4 @@
 <h2>License</h2>
 <p>This project is licensed under the MIT license.</p>
 <h2>Contact</h2>
-<p>For any questions or feedback, please open an issue on GitHub or reach out to me via email at <code node="[object Object]">javier.molinarojas@alum.uca.es</code>.</p>
+<p>For any questions or feedback, please open an issue on GitHub or reach out to me via email at <code node="[object Object]">javier.molinarojas@alum.uca.es</code></p>
