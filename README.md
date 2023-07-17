@@ -14,7 +14,7 @@
 <h2>Installation</h2>
 <p>You can install the <a node="[object Object]" class="MarkdownLink_linkifiedLink__KxC9G">Synthetic Data Vault library</a> via pip:</p>
 <code class="MarkdownCodeBlock_codeTag__ipdCC" style="white-space: pre;"><span>pip install sdv
-</span></code>
+</span></code><br>
 <p>This will automatically install all the dependencies the library needs.</p>
 <h2>Contributing</h2>
 <p>Contributions to this project are welcome! Please see the <a node="[object Object]" class="MarkdownLink_linkifiedLink__KxC9G">contribution guidelines</a> for more information.</p>
